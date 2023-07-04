@@ -32,4 +32,4 @@ export const getPrivKey = (path) => {
 //
 //console.log(Buffer.from(bs58.decode('4LGE55cdv7DRfErMovJY3Hm6jQrzRFyGfGpAW9vnb8Sz')).toString('hex'))
 
-console.log(bs58.encode(Buffer.from('06ddf6e1d765a193d9cbe146ceeb79ac1cb485ed5f5b37913a8cf5857eff00a9','hex')))
+console.log(bs58.encode(Buffer.from('18da0d513cf6b9aaed71080ac460bd75b66ccc157e1ebbb9eaabd6a4ba40c370','hex')))
